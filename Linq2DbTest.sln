@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2DbTest", "Linq2DbTest\Linq2DbTest.csproj", "{38B8BA42-4051-4001-BA2F-940371B64996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq2db.tests", "Linq2db.tests\Linq2db.tests.csproj", "{65660606-11A8-4189-8C85-A2C016EC7A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B8BA42-4051-4001-BA2F-940371B64996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B8BA42-4051-4001-BA2F-940371B64996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B8BA42-4051-4001-BA2F-940371B64996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B8BA42-4051-4001-BA2F-940371B64996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65660606-11A8-4189-8C85-A2C016EC7A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65660606-11A8-4189-8C85-A2C016EC7A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65660606-11A8-4189-8C85-A2C016EC7A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65660606-11A8-4189-8C85-A2C016EC7A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A0C83A-FF53-4BB4-985E-7742302600CA}
+	EndGlobalSection
+EndGlobal
